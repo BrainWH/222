@@ -12,6 +12,6 @@ public class Main {
             System.out.println("i = " + i);
         }
 
-        System.out.printf("Hello and welcome!");
+        System.out.printf("Hello!");
     }
 }
